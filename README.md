@@ -1,2 +1,2 @@
-# ai-for-trading_p1-momentum
-First project
+# AI for trading
+Projects and notes
